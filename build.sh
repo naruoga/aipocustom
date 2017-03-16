@@ -1,5 +1,5 @@
 rm -rf distribute
-git clone https://github.com/ootaken/distribute.git
+git clone https://github.com/naruoga/distribute.git
 cd distribute/
 rake ${BRANCH}
 cd target/
