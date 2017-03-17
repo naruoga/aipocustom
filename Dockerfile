@@ -1,5 +1,5 @@
 FROM ootaken/aipobase:latest
-MAINTAINER Kenichiro Ota <oota_ken@hotmail.com>
+MAINTAINER Naruhiko Ogasawara <naruoga@gmail.com>
 
 ENV AIPO_REPO https://github.com/aipocom/aipo.git
 ENV AIPO_OPENSOCIAL_REPO https://github.com/aipocom/aipo-opensocial.git
